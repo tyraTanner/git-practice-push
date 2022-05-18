@@ -25,6 +25,7 @@ Once you type in "git commit", it opens vi.
   In vi editor:
     Press "i" for insert
     Type a commit message
+    Press "esc" to exit message
     If you want to move through the editor, use "j" and "k". 
     Use ":wq" to quit and save
 */
@@ -32,3 +33,9 @@ Once you type in "git commit", it opens vi.
 function add(a, b) {
   return a + b;
 }
+
+/*
+Here are some comments I will now branch onto a new branch in git
+I'm gonna add some more thoughts here. 
+This is in my branch1 git branch. I'm gonna commit these there.
+*/
