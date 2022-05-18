@@ -39,3 +39,7 @@ Here are some comments I will now branch onto a new branch in git
 I'm gonna add some more thoughts here. 
 This is in my branch1 git branch. I'm gonna commit these there.
 */
+
+// Now I will make a second branch called branch1 again
+// So that doesn't work, it says branch1 still exists. If it still exists, but was merged, where does it exist?
+// So now it says I'm on branch 1, so I'm going to keep typing and then make a new commit, then from there, I'll merge with master again
