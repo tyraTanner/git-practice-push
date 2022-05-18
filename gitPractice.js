@@ -6,7 +6,7 @@ git checkout <location> (can type any place in the git main or branches or commi
 git checkout -b (combines branch & checkout)
 git merge
 git rebase (like merge but combines back into single linear flow)
-git log (to see hashes)
+git log (to see hashes) (press "q" to quit)
 HEAD (points to most recent commit)
 
 Relative Refs:
