@@ -18,7 +18,17 @@ git reset (will go back in time and make it as if a commit had never happened, s
 git revert (will make a new commit with changes that just happen to reset. This allows changes to be shared with others.)
 */
 
+/*
+Commit:
+Before you commit a change, it must be staged. To stage a file, add it to git. "git add <filename>"
+Once you type in "git commit", it opens vi. 
+  In vi editor:
+    Press "i" for insert
+    Type a commit message
+    If you want to move through the editor, use "j" and "k". 
+    Use ":wq" to quit and save
+*/
+
 function add(a, b) {
   return a + b;
 }
-// a;sljkd;faljsdl
