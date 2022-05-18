@@ -1,5 +1,7 @@
 /*
 git status: state of working directory
+git add <filename> (add file to staging area)
+git add -p <filename> ("-p" stand for "patch", and it will allow you to add only certain changes from a file to the staging area)
 git commit
 git branch
 git checkout <location> (can type any place in the git main or branches or commits)
