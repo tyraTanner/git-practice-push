@@ -21,6 +21,11 @@ git revert (will make a new commit with changes that just happen to reset. This 
 */
 
 /*
+Make a git project:
+For each project, you'll need to use "git init" to create your git repository.
+*/
+
+/*
 Commit:
 Before you commit a change, it must be staged. To stage a file, add it to git. "git add <filename>"
 Once you type in "git commit", it opens vi. 
