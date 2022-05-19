@@ -36,3 +36,13 @@ Once you type in "git commit", it opens vi.
     If you want to move through the editor, use "j" and "k". 
     Use ":wq" to quit and save
 */
+
+/*
+Steps to Push to GitHub:
+
+Add a new empty repository on github. Don't click on add README file or it won't take you to the 'Quick setup — if you’ve done this kind of thing before' page with the instructions. Stay on this page. You will need the info to copy for a push. It will look something like this: "git remote add origin https://github.com/tyraTanner/git-practice-push.git
+git branch -M main
+git push -u origin main"
+
+As long as you have added a file and committed changes, you can go ahead and push them onto gitHub with the above instructions.
+*/
