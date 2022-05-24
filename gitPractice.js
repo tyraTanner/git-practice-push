@@ -35,6 +35,7 @@ Once you type in "git commit", it opens vi.
     Press "esc" to exit message
     If you want to move through the editor, use "j" and "k". 
     Use ":wq" to quit and save
+  Shortcut: "git commit -m" allows you to type in your commit message without opening the editor. Nice!
 */
 
 /*
