@@ -23,7 +23,7 @@ git revert (will make a new commit with changes that just happen to reset. This 
 
 /*
 Make a git project:
-For each project, you'll need to use "git init" to create your git repository.
+For each project, you'll need to use "git init" to create your git repository. Go to terminal and to the directory you want to be a git project. It will track all files in the directory.
 */
 
 /*
