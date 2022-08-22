@@ -23,7 +23,7 @@ git revert (will make a new commit with changes that just happen to reset. This 
 
 /*
 Make a git project:
-For each project, you'll need to use "git init" to create your git repository. Go to terminal and to the directory you want to be a git project. It will track all files in the directory.
+For each project, you'll need to use "git init" to create your git repository. Go to terminal and to the directory you want to be a git project. It will track all files in the directory.clea
 */
 
 /*
@@ -36,11 +36,11 @@ Once you type in "git commit", it opens vi.
     Press "esc" to exit message
     If you want to move through the editor, use "j" and "k". 
     Use ":wq" to quit and save
-  Shortcut: "git commit -m" allows you to type in your commit message without opening the editor. Nice!
+  Shortcut: "git commit -m" allows you to type in your commit message without opening the editor. (Make sure to put message in quotes: "") Nice!
 */
 
 /*
-Steps to Push to GitHub:
+Steps to Push to GitHub: (after you've initialized, added files.)
 
 Add a new empty repository on github. Don't click on add README file or it won't take you to the 'Quick setup — if you’ve done this kind of thing before' page with the instructions. Stay on this page. You will need the info to copy for a push. It will look something like this: "git remote add origin https://github.com/tyraTanner/git-practice-push.git
 git branch -M main
